@@ -10,6 +10,6 @@ class Animal {
     }
 
     public virtual void Locomover() {
-        Console.WriteLine($"O {nome} se locomove de forma padrão.");
+        Console.WriteLine($"{nome} se locomove de forma padrão.");
     }
 }
